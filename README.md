@@ -7,7 +7,7 @@ In this workshop we will use an AWS environment configured with logging and anal
 
 <h2>Programs and Utilities Used</h2>
 
-- <b>rAWS CloudFormation</b> 
+- <b>AWS CloudFormation</b> 
 - <b>Amazon Athena and AWS CloudTrail</b>
 - <b>AWS Bashshell, CLI, AWS CIRT Playbooks</b>
 - <b>Amazon S3 buckets, EC2 Instances, etc</b> 
